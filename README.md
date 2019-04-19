@@ -1,4 +1,4 @@
 # gh-web-app
 Github based web application 
 
-[Start application](src/)
+[Run the app](app/)
